@@ -17,16 +17,13 @@ BORI0001@e.ntu.edu.sg
 https://www.linkedin.com/in/boris-lee-519a8a178
 
 🌐 Connect with me
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoandfries&show_icons=true)
 https://www.linkedin.com/in/boris-lee-519a8a178
 https://leetcode.com/YOUR_LEETCODE_USERNAME
 
 🛠️ Languages and Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoandfries)
 
-python c cpp java csharp
-spring django angular pytorch
-mysql mongodb redis
-azure docker git
 
 📊 GitHub Stats
 
