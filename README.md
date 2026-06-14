@@ -14,12 +14,17 @@ https://github.com/potatoandfries
 orbis4308@gmail.com
 
 📄 Know about my experience/🌐 Connect with me:
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Boris%20Lee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boris-lee-519a8a178)
 
-📊 GitHub Stats
+📊 GitHub Stats:
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoandfries&show_icons=true)
 
-🛠️ Languages and Tools
+🛠️ Languages and Tools:
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoandfries)
 
-🧠 LeetCode Stats
+🧠 LeetCode Stats:
+
+---
