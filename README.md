@@ -1,7 +1,6 @@
-👋 Hello, I'm Boris (Lee Su Sheng)
+👋 Hello, I'm Boris (Lee Su Sheng) 
 
 Software Engineer
-potatoandfries
 
 ![Profile views](https://komarev.com/ghpvc/?username=potatoandfries&color=blue)
 
