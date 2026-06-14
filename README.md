@@ -22,8 +22,51 @@ orbis4308@gmail.com
 
 🛠️ Languages and Tools:
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoandfries)
 
-🧠 LeetCode Stats:
+### 💻 Programming Languages
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+
+---
+
+### 🤖 AI / Machine Learning / LLM Stack
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-yellow?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+---
+
+### 🧠 Data / Analytics / RAG
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-ChromaDB%20%2F%20FAISS-blue?style=for-the-badge)
+
+---
+
+### ⚙️ Backend / Systems Engineering
+![Spring](https://skillicons.dev/icons?i=spring)
+![Django](https://skillicons.dev/icons?i=django)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+---
+
+### 🗄️ Databases & Caching
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+---
+
+### ☁️ Cloud / DevOps / Tools
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoandfries)
 
 ---
