@@ -27,7 +27,7 @@ orbis4308@gmail.com
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
 
@@ -51,7 +51,6 @@ orbis4308@gmail.com
 ### ⚙️ Backend / Systems Engineering
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Django](https://skillicons.dev/icons?i=django)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
 ---
 
@@ -63,7 +62,6 @@ orbis4308@gmail.com
 ---
 
 ### ☁️ Cloud / DevOps / Tools
-![Azure](https://skillicons.dev/icons?i=azure)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 
