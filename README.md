@@ -1,6 +1,6 @@
 👋 Hello, I'm Boris (Lee Su Sheng)
 
-Associate Software Engineer @ Visa Singapore
+Software Engineer
 potatoandfries
 
 ![Profile views](https://komarev.com/ghpvc/?username=potatoandfries&color=blue)
@@ -11,20 +11,15 @@ potatoandfries
 https://github.com/potatoandfries
 
 📫 Reach me at:
-BORI0001@e.ntu.edu.sg
+orbis4308@gmail.com
 
-📄 Know about my experience:
-https://www.linkedin.com/in/boris-lee-519a8a178
+📄 Know about my experience/🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boris%20Lee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boris-lee-519a8a178)
 
-🌐 Connect with me
+📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoandfries&show_icons=true)
-https://www.linkedin.com/in/boris-lee-519a8a178
-https://leetcode.com/YOUR_LEETCODE_USERNAME
 
 🛠️ Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoandfries)
-
-
-📊 GitHub Stats
 
 🧠 LeetCode Stats
